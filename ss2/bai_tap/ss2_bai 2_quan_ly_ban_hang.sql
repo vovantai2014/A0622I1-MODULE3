@@ -29,4 +29,3 @@ primary key (order_id, pro_id),
 foreign key (order_id) references Orderr (order_id),
 foreign key (pro_id) references Product (pro_id)
 );
-drop database quanlybanhang;
