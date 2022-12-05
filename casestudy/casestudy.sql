@@ -169,18 +169,18 @@ values (1, 'year'),
 select * from kieu_thue;
 -- insert du lieu cho table loai_dich_vu
 insert into loai_dich_vu (ma_loai_dich_vu, ten_loai_dich_vu)
-values (1, 'Villa'),
-       (2, 'House'),
-       (3, 'Room');
+values 	(1, 'Villa'),
+		(2, 'House'),
+		(3, 'Room');
 select * from loai_dich_vu;       
 -- insert du lieu cho table dich_vu
 insert into dich_vu 
-values(1,'Villa Beach Front',25000,1000000,10,3,1,'vip','có hồ bơi',500,4,null),
-(2,'House Princess 01',14000,5000000,7,2,2,'vip','Có thêm bếp nướng',null,3,null),
-(3,'Room Twin 01',5000,1000000,2,4,3,'normal','Có tivi',null,null,'1 Xe máy, 1 Xe đạp'),
-(4,'Villa No Beach Front',22000,9000000,8,3,1,'normal','có hồ bơi',300,3,null),
-(5,'House Princess 02',10000,4000000,5,3,2,'normal','Có thêm bếp nướng',null,2,null),
-(6,'Room Twin 02',3000,900000,2,4,3,'normal','Có tivi',null,null,'1 Xe máy');
+values	(1,'Villa Beach Front',25000,1000000,10,3,1,'vip','có hồ bơi',500,4,null),
+		(2,'House Princess 01',14000,5000000,7,2,2,'vip','Có thêm bếp nướng',null,3,null),
+		(3,'Room Twin 01',5000,1000000,2,4,3,'normal','Có tivi',null,null,'1 Xe máy, 1 Xe đạp'),
+		(4,'Villa No Beach Front',22000,9000000,8,3,1,'normal','có hồ bơi',300,3,null),
+		(5,'House Princess 02',10000,4000000,5,3,2,'normal','Có thêm bếp nướng',null,2,null),
+		(6,'Room Twin 02',3000,900000,2,4,3,'normal','Có tivi',null,null,'1 Xe máy');
 select * from dich_vu;       
 -- insert du lieu cho table dich_vu_di_kem
 insert into dich_vu_di_kem (ma_dich_vu_di_kem, ten_dich_vu_di_kem, gia, don_vi, trang_thai)
@@ -216,4 +216,4 @@ values	(1,2,4,5),
 		(6,1,3,1),
 		(7,1,2,2),
 		(8,12,2,2);
--- select * from hop_dong_chi_tiet;
+select * from hop_dong_chi_tiet;
