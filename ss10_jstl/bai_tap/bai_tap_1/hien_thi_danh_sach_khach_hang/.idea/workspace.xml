@@ -20,16 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4586076-9ef1-4466-96fc-26709099cec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../New folder/hien_thi_danh_sach_khach_hang/src/main/webapp/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/controler/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/repository/IProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss11_mvc/bai_tap/product_manager/src/main/java/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/thuc_hanh/thuc_hanh_1/ung_dung_chuyen_doi_tien_te/src/main/webapp/converter.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/thuc_hanh/thuc_hanh_2/simple_dictionary/src/main/webapp/dictionary.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/thuc_hanh/thuc_hanh_2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/thuc_hanh/thuc_hanh_2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss6/bai_tap/3. web_doc_truyen/doc_truyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/Bài 3/layout_rwd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/Bài 3/tao_layout_vơi_RWD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/Bài 4/xem_hoat_hinh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/Bài 4/xem_hoat_hinh_online.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/product_discount_calculator/src/main/java/DiscountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ss9_tong_quan_java_web/product_discount_calculator/src/main/webapp/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hien_thi_danh_sach_khach_hang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/bai_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/bai_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/bai_2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/bai_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ss7_thiet_ke_layout/bai_tap/logofb.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +77,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New folder/hien_thi_danh_sach_khach_hang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,8 +170,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670850169296</updated>
-      <workItem from="1670850174254" duration="2367000" />
-      <workItem from="1671025035439" duration="98000" />
+      <workItem from="1670850174254" duration="2255000" />
+      <workItem from="1670852570659" duration="2711000" />
+      <workItem from="1670942163026" duration="3529000" />
+      <workItem from="1670946335634" duration="1667000" />
+      <workItem from="1671021509848" duration="128000" />
+      <workItem from="1671025135393" duration="196000" />
+      <workItem from="1672372268396" duration="63000" />
     </task>
     <servers />
   </component>
@@ -192,64 +204,69 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1670851454513" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1670852568161">
+    <state x="430" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1670854339370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1670852568161" />
-    <state width="905" height="279" key="GridCell.Tab.0.bottom" timestamp="1671025133782">
+    <state x="430" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1670854339370" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1671021614954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.0.center" timestamp="1671025133782">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1671021614954" />
+    <state width="905" height="279" key="GridCell.Tab.0.bottom" timestamp="1672372331612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.0.left" timestamp="1671025133781">
+    <state width="905" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1672372331612" />
+    <state width="905" height="279" key="GridCell.Tab.0.center" timestamp="1672372331612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1671025133781" />
-    <state width="905" height="279" key="GridCell.Tab.0.right" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1672372331612" />
+    <state width="905" height="279" key="GridCell.Tab.0.left" timestamp="1672372331612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.1.bottom" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1672372331612" />
+    <state width="905" height="279" key="GridCell.Tab.0.right" timestamp="1672372331612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.1.center" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1672372331612" />
+    <state width="905" height="279" key="GridCell.Tab.1.bottom" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.1.left" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.1.center" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.1.right" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.1.left" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.2.bottom" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.1.right" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.2.center" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.2.bottom" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.2.left" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.2.center" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
-    <state width="905" height="279" key="GridCell.Tab.2.right" timestamp="1671025133782">
+    <state width="905" height="279" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.2.left" timestamp="1672372331613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="279" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1671025133782" />
+    <state width="905" height="279" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
+    <state width="905" height="279" key="GridCell.Tab.2.right" timestamp="1672372331613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="279" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1672372331613" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1670851224188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1670851224188" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hien_thi_danh_sach_khach_hang$Tomcat_9_0_70.ic" NAME="Tomcat 9.0.70 Coverage Results" MODIFIED="1671025087543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <state x="274" y="0" key="new project wizard" timestamp="1671021634608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1671021634608" />
   </component>
 </project>
